@@ -1,1 +1,1 @@
-# Computer-Vision-project
+# QR & Barcode Detection
