@@ -1,1 +1,1 @@
-# QR & Barcode Detection
+# qr-barcode-detector
